@@ -2,3 +2,4 @@ Strength through struggle - Michael Choi
 I like blue - Kalyan
 updated in the remote
 another change to test stash functionality
+another change local
